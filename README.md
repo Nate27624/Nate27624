@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nate27624?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repos-12E-111827?style=flat-square" /></a>
+  <a href="https://github.com/Nate27624?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Public-Projects-111827?style=flat-square" /></a>
   <img alt="Location" src="https://img.shields.io/badge/Columbus-Ohio-0f172a?style=flat-square" />
   <img alt="Company" src="https://img.shields.io/badge/Targy-LLC-0f172a?style=flat-square" />
   <img alt="Focus" src="https://img.shields.io/badge/Focus-SWE%20%7C%20AI%20Systems-0f172a?style=flat-square" />
@@ -74,13 +74,11 @@
 
 ## Technical Focus
 
-```text
-TypeScript / React / Vite
-Scientific tooling and browser runtimes
-Unity / VR / interactive systems
-Mobile prototyping
-Applied AI and ML workflows
-```
+- TypeScript, React, and Vite application work
+- Scientific tooling and browser runtime engineering
+- Unity, VR, and interactive systems
+- Mobile prototyping
+- Applied AI and ML workflows
 
 ## Contact
 
