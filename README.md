@@ -1,4 +1,4 @@
-# Nate Arens
+# Nate A.
 
 Software engineer at Ohio State, graduating May 2027.
 
