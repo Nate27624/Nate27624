@@ -82,7 +82,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
       <p>LLM-driven robot dog prototype built around a <strong>Unitree Go2</strong>.</p>
       <p>Routes speech and visual context through a Unity client, controller, and Python server to execute predefined robot actions.</p>
       <p>The core engineering work was the command parser and mapping layer for roughly 30 supported natural-language commands.</p>
-      <p><a href="https://github.com/Nate27624/robot-dog">Repo</a></p>
+      <p><a href="https://github.com/Nate27624/robot-dog">Repo</a> · <a href="https://drive.google.com/file/d/1uffFOmuZFq7P0wGeoL1_5fCEQ-rDiy46/view?usp=sharing">Demo video</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/ARChat-showcase">ARChat</a></h3>
