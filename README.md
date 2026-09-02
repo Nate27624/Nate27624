@@ -66,8 +66,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
       <h3><a href="https://github.com/Nate27624/Chromarun">Chromarun</a></h3>
       <p>Founded <strong>Targy LLC</strong> and built the shipped Meta Quest VR game myself.</p>
       <p>Key systems include 40 handcrafted levels, hand tracking, saves, leaderboards, custom levels, and a raycast-driven procedural mode for an effectively unlimited, non-repeating obstacle course.</p>
-      <p><a href="https://github.com/Nate27624/Chromarun">Repo</a> · <a href="https://www.youtube.com/watch?v=3sIsHlFQGgE">Trailer</a> · <a href="https://www.meta.com/experiences/chromarun/4405707952806774/">Store page</a></p>
-      <p><a href="https://www.youtube.com/watch?v=RLCw0jw2iWA&list=PLzLJrZy1zzpC5rQm2ozT7f3oe-LIgFPBc"><strong>All levels playlist</strong></a></p>
+      <p><a href="https://github.com/Nate27624/Chromarun">Repo</a> · <a href="https://www.youtube.com/watch?v=3sIsHlFQGgE">Trailer</a> · <a href="https://www.meta.com/experiences/chromarun/4405707952806774/">Store page</a> · <a href="https://www.youtube.com/watch?v=RLCw0jw2iWA&list=PLzLJrZy1zzpC5rQm2ozT7f3oe-LIgFPBc"><strong>All levels playlist</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/XPPAutHome">XPPAutHome</a></h3>
