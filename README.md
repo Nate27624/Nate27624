@@ -9,7 +9,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   <a href="https://github.com/Nate27624/XPPAutHome">XPPAutHome</a> /
   <a href="https://github.com/Nate27624/robot-dog">Comet</a> /
   <a href="https://github.com/Nate27624/ARChat-showcase">ARChat</a> /
-  <a href="https://github.com/Nate27624/BloomwaveGarden">BloomwaveGarden</a>
+  <a href="https://github.com/Nate27624/BloomwaveGarden">Bloomwave Garden</a>
 </p>
 
 <table>
@@ -97,7 +97,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Nate27624/BloomwaveGarden">BloomwaveGarden</a></h3>
+      <h3><a href="https://github.com/Nate27624/BloomwaveGarden">Bloomwave Garden</a></h3>
       <p><strong>Status:</strong> In development</p>
       <p>Current farming-game build across browser and native iOS paths.</p>
       <p>Includes burst-based gameplay, progression, HUD systems, audio handling, leaderboards, release assets, and now a public browser build.</p>
@@ -113,7 +113,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   </tr>
 </table>
 
-## One Good Review
+## One Good Review (Chromarun)
 
 <p align="center">
   <a href="https://www.meta.com/experiences/chromarun/4405707952806774/">
@@ -127,10 +127,14 @@ The work here centers on shipped XR software, real-time interactive systems, bro
 
 - **Nationwide, Software Engineering Intern:** work across AWS, EC2, Alation, New Relic, and CI/CD; built production/test monitoring and a Bash workflow that replaced manual external-drive backups with GitHub-backed automation.
 - **Stealth startup, Software Developer:** sole iOS developer for a Ray-Ban Meta smart-glasses prototype using Apple Vision for on-device object detection and ruleset-driven capture readiness.
-- **Teaching Assistant, College Algebra:** taught recitations and supported roughly 60 students per semester with strong instructor ratings.
+- **Teaching Assistant, College Algebra:** taught recitations and supported roughly 60 students per semester, averaging a 4.9 out of 5 student rating across two sections (5.0 and 4.79).
 
 ## Also Worth Opening
 
 - [ProgrammingChallenge](https://github.com/Nate27624/ProgrammingChallenge): PyTorch speech emotion recognition work that adds applied ML depth.
-- `financial-tracking` / Houston Finance: local-first personal-finance desktop app with encrypted storage, Plaid read-only boundaries, and release automation; currently private pending final privacy review.
+- `financial-tracking` / Houston Finance: local-first personal-finance desktop app with encrypted storage, Plaid read-only boundaries, release automation, and a cash-flow UI built for real account aggregation; kept private intentionally.
 - [ARChatDBs](https://github.com/Nate27624/ARChatDBs): supporting data assets for ARChat.
+
+<p align="center">
+  <img src="./assets/houston-finance.png" alt="Houston Finance desktop app screenshot showing cash flow and account views" width="92%" />
+</p>
