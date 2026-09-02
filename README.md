@@ -64,12 +64,14 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/Chromarun">Chromarun</a></h3>
+      <p><strong>Status:</strong> Done</p>
       <p>Founded <strong>Targy LLC</strong> and built the shipped Meta Quest VR game myself.</p>
       <p>Key systems include 40 handcrafted levels, hand tracking, saves, leaderboards, custom levels, and a raycast-driven procedural mode for an effectively unlimited, non-repeating obstacle course.</p>
       <p><a href="https://github.com/Nate27624/Chromarun">Repo</a> · <a href="https://www.youtube.com/watch?v=3sIsHlFQGgE">Trailer</a> · <a href="https://www.meta.com/experiences/chromarun/4405707952806774/">Store page</a> · <a href="https://www.youtube.com/watch?v=RLCw0jw2iWA&list=PLzLJrZy1zzpC5rQm2ozT7f3oe-LIgFPBc"><strong>All levels playlist</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/XPPAutHome">XPPAutHome</a></h3>
+      <p><strong>Status:</strong> Done</p>
       <p>Web-first port of <a href="https://github.com/Ermentrout/xppaut">XPPAUT</a>, Bard Ermentrout's tool for simulating and analyzing dynamical systems.</p>
       <p>Supports model upload, simulation, phase-plane analysis, bifurcation views, and export to SVG, PNG, and CSV through typed worker APIs and a WASM-first runtime.</p>
       <p><a href="https://github.com/Nate27624/XPPAutHome">Repo</a> · <a href="https://nate27624.github.io/XPPAutHome/">Live demo</a></p>
@@ -78,6 +80,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/robot-dog">Comet</a></h3>
+      <p><strong>Status:</strong> Done</p>
       <p>LLM-driven robot dog prototype built around a <strong>Unitree Go2</strong>.</p>
       <p>Routes speech and visual context through a Unity client, controller, and Python server to execute predefined robot actions.</p>
       <p>The core engineering work was the command parser and mapping layer for roughly 30 supported natural-language commands.</p>
@@ -85,6 +88,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/ARChat-showcase">ARChat</a></h3>
+      <p><strong>Status:</strong> Done</p>
       <p><strong>Primary developer</strong> on an AR data-exploration system for Meta Quest 3.</p>
       <p>Loads QR-linked context, accepts natural-language questions, and returns spoken answers plus AR overlays tied to the scene.</p>
       <p>The system combines a Quest frontend, Python backend, DuckDB, Gemini, Wit.ai, and an early scrcpy-based workaround for environment imagery.</p>
@@ -94,12 +98,14 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/BloomwaveGarden">BloomwaveGarden</a></h3>
+      <p><strong>Status:</strong> In development</p>
       <p>Current farming-game build across browser and native iOS paths.</p>
       <p>Includes burst-based gameplay, progression, HUD systems, audio handling, leaderboards, release assets, and now a public browser build.</p>
       <p><a href="https://github.com/Nate27624/BloomwaveGarden">Repo</a> · <a href="https://nate27624.github.io/BloomwaveGarden/">Web build</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/pawmaq.com">pawmaq.com</a></h3>
+      <p><strong>Status:</strong> On hold</p>
       <p>Open-source social platform workspace focused on privacy, moderation, and account integrity.</p>
       <p>Includes anonymous passkey auth, media posting, moderation-first architecture, and feed UX.</p>
       <p><a href="https://github.com/Nate27624/pawmaq.com">Repo</a></p>
