@@ -48,7 +48,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://nate27624.github.io/BloomwaveGarden/">
-        <img src="./assets/bloomwave-preview.png" alt="Bloomwave Garden screenshot" width="100%" />
+        <img src="./assets/bloomwave-preview-4x3.png" alt="Bloomwave Garden screenshot" width="100%" />
       </a>
       <br />
       <strong>Bloomwave Garden web build</strong>
