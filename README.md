@@ -14,7 +14,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
 
 <table>
   <tr>
-    <td><strong>Shipped XR product</strong></td>
+    <td><strong>Targy LLC</strong></td>
     <td>Chromarun reached 1,150+ installs and 575+ lifetime active users on Meta Quest.</td>
   </tr>
   <tr>
