@@ -19,7 +19,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
   </tr>
   <tr>
     <td><strong>Scientific web tooling</strong></td>
-    <td>XPPAutHome ports XPPAUT workflows to the browser with a WASM-first runtime.</td>
+    <td>XPPAutHome ports <a href="https://github.com/Ermentrout/xppaut">XPPAUT</a>, Bard Ermentrout's dynamical-systems and bifurcation-analysis tool, to the browser with a WASM-first runtime.</td>
   </tr>
   <tr>
     <td><strong>Robotics + AI</strong></td>
@@ -71,7 +71,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Nate27624/XPPAutHome">XPPAutHome</a></h3>
-      <p>Web-first XPPAUT port for neuroscience and dynamical-systems workflows.</p>
+      <p>Web-first port of <a href="https://github.com/Ermentrout/xppaut">XPPAUT</a>, Bard Ermentrout's tool for simulating and analyzing dynamical systems.</p>
       <p>Supports model upload, simulation, phase-plane analysis, bifurcation views, and export to SVG, PNG, and CSV through typed worker APIs and a WASM-first runtime.</p>
       <p><a href="https://github.com/Nate27624/XPPAutHome">Repo</a> · <a href="https://nate27624.github.io/XPPAutHome/">Live demo</a></p>
     </td>
