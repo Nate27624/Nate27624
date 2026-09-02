@@ -132,8 +132,7 @@ The work here centers on shipped XR software, real-time interactive systems, bro
 ## Also Worth Opening
 
 - [ProgrammingChallenge](https://github.com/Nate27624/ProgrammingChallenge): PyTorch speech emotion recognition work that adds applied ML depth.
-- `financial-tracking` / Houston Finance: local-first personal-finance desktop app with encrypted storage, Plaid read-only boundaries, release automation, and a cash-flow UI built for real account aggregation; kept private intentionally.
-- [ARChatDBs](https://github.com/Nate27624/ARChatDBs): supporting data assets for ARChat.
+- `houston-finance`: local-first personal-finance desktop app with encrypted storage, Plaid read-only boundaries, release automation, and a cash-flow UI built for real account aggregation; kept private intentionally.
 
 <p align="center">
   <img src="./assets/houston-finance.png" alt="Houston Finance desktop app screenshot showing cash flow and account views" width="92%" />
