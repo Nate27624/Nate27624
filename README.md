@@ -1,6 +1,6 @@
 # Nate Arens
 
-I build real systems across product engineering, XR, AI, robotics, and data-heavy tooling.
+I build complex programs on a wide variety of systems in a wide variety of coding languages.
 
 Recent work includes a shipped Meta Quest game with **1,150+ installs** and **575+ lifetime active users**, a **Unitree Go2** voice-command stack with **~30 supported natural-language commands**, a web-first **XPPAUT** port with a **WASM** runtime, and an AR data-exploration system presented at **NCUR 2025**.
 
